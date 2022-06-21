@@ -270,7 +270,6 @@ const style = StyleSheet.create({
         marginRight: 1,
         width: 15,
         height: 15,
-        backgroundColor: 'gold',
     },
 
     // text: {
