@@ -18,6 +18,7 @@ const colorDarkFontGitHub = '#4F565E';
 const imageProfileGitHub = 'https://avatars.githubusercontent.com/u/52607671?v=4';
 const urlToMyGitHub = 'https://github.com/Vittorr';
 
+
 const App = () => {
 
     const handlePressGoToGitHub = async () => {
@@ -62,12 +63,123 @@ const App = () => {
                 Hello, new in the technological area and actually doing Information Systems on Federal University of Pernambuco. I have 18 years and i'm excited to learn more.
             </Text>
 
+
+        {/* 1 row  */}
+        <View style={style.section}>
+            <View style={[style.elements , style.squareDarkGreen]}></View>
+            <View style={[style.elements , style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+        </View>
+
+
+        {/* 2 row  */}
+        <View style={style.section}>
+            <View style={[style.elements , style.squareDarkGreen]}></View>
+            <View style={[style.elements , style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+        </View>
+
+
+        {/* 3 row  */}
+        <View style={style.section}>
+            <View style={[style.elements , style.squareDarkGreen]}></View>
+            <View style={[style.elements , style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+        </View>
+
+
+        {/* 4 row  */}
+        <View style={style.section}>
+            <View style={[style.elements , style.squareDarkGreen]}></View>
+            <View style={[style.elements , style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+        </View>
+
+
+        {/* 5 row  */}
+        <View style={style.section}>
+            <View style={[style.elements , style.squareDarkGreen]}></View>
+            <View style={[style.elements , style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareLightGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+        </View>
+
+
+        {/* 6 row  */}
+        <View style={style.section}>
+            <View style={[style.elements , style.squareDarkGreen]}></View>
+            <View style={[style.elements , style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+            <View style={[style.elements, style.squareDarkGreen]}></View>
+        </View>
+
+
             {/* <Pressable onPress={() => console.log("github")}> */}
             <Pressable onPress={handlePressGoToGitHub}>
                 <View style={style.button}>
                     <Text style={[style.defaultText, style.textButton]}>Open in GitHub!</Text>
                 </View>
             </Pressable>
+
+
         </View>
 
         {/* ex: se botássemos uma duplicata dessa foto ela aparecia em colunas exceto com a alteração do flexDirection -> para row */}
@@ -132,13 +244,43 @@ const style = StyleSheet.create({
         fontSize: 16,
     },
 
+    squareDarkGreen: {
+        backgroundColor: '#005E00',
+        borderRadius: 8,
+        width: 20,
+        height: 20,
+    },
+
+    squareLightGreen: {
+        backgroundColor: '#249624',
+        borderRadius: 8,
+        width: 20,
+        height: 20,
+    },
+
+    section: {
+        flexDirection: 'row',
+        flexWrap: 'wrap',  
+      },
+
+    elements: {
+        marginTop: 1,
+        marginBottom: 1,
+        marginLeft: 1,
+        marginRight: 1,
+        width: 15,
+        height: 15,
+        backgroundColor: 'gold',
+    },
 
     // text: {
     //     fontSize: 50,
     //     fontWeight: 'bold',
     //     color: 'black'
     // }
+
 });
+
 
 // view para visualizar no cel
 // text para digitar algo na tela
@@ -184,4 +326,8 @@ const style = StyleSheet.create({
 // ---> queries.... para trabalhar com urls
 
 
+// -------------------------------------------------------------------------------------------------------------------------------------- //
+
+// OBS: desafio lançado... --> 6 rows 13 columns... fazer um grid da dio
+// fazer varios blocos com 13 elementos representando as colunas (repetir 6 vezs atentando a cor se é escuro ou claro!)
 
