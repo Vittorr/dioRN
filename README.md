@@ -36,4 +36,4 @@
   - Add código nativo no AndroidManifest.xml para abrir link (queries adicionados para garantir a funcionalidade de abrir link)
  
 
- 
+ OBS: todos os contéudos acima abordados no curso de Introdução ao React Native
